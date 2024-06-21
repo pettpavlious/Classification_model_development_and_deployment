@@ -18,7 +18,7 @@ The Dockerfile used to initialise the process.
 
 The gender-prediction.csv which includes the data used to train and test the model
 
-### Installing
+## Installing
 
 In order to start the project using Docker you can run:
 
